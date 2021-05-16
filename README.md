@@ -1,7 +1,7 @@
 # Blockly-Music
 A music streaming client with a direct payment platform from musicians to users using blockchain technology to be a more efficient and secure online music player user case. 
 
-This code is the basic starter point merging the developments of Key Cloak keycloak-13.0.0 for authentication, and Gstreamer for our music streaming platform. 
+This code is the basic starter point merging the developments of Key Cloak keycloak-13.0.0 for authentication, and Gstreamer-1.18.4  for our music streaming platform. 
 
 The tokens created for payment to access our streaming services. 
 
